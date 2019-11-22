@@ -1,3 +1,5 @@
 # music-chords-api
 
-This is an API of lyrics with its proper music chords for guitars... 
+In this RESTfull API I'm using Node, Express, Puppeteer and Mongoose. 
+
+With puppeteer I am crawling music chords from specialized music websites.
